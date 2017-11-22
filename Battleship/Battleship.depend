@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1511042822 source:c:\users\benjamin soto\desktop\tec\battleship\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+
